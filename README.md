@@ -72,19 +72,22 @@ Mit Yay `python` installieren
 ```BASH
 yay -S liberica-jdk-17-full-bin
 ```
-bei Installation immer “a” oder „y“ oder „q“ um Vertrag zu bestätigen
 Java Datei erstellen
 -	Datei genauso benennen wie Die Klasse
--	Z.b.:
+Möglicher Inhalt:
+```JAVA
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hallo, Welt!");
     }
 }
-
-Datei kompilieren
--	javac Pfad/HelloWorld.java
+```
+Nun müssen wir die Datei kompilieren
+```BASH
+javac Pfad/HelloWorld.java
+```
 Datei Ausführen
--	java Pfad/HelloWorld.java
-
-	Ihr Könnt Java programmieren, probiert Sachen aus
+```BASH
+java Pfad/HelloWorld.java
+```
+In Java könnt ihr ja schon programmieren, probiert einfach ein paar Sachen aus
