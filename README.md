@@ -23,12 +23,11 @@ yay -S intellij-idea-community-edition
 ```
 <br/>
 Zum auflisten anderer Yay-Befehle kann man das hier nutzen:
-
 ```BASH
 yay --help
 ```
 #Python im Terminal
-Zuerst muss Python installiert werden. Das Paket lautet `python`, wenn du im Kaptiel Entwicklungsumbebung installieren aufgepasst hast, müsstest du nun in der Lage sein Python zu installieren
+Zuerst muss Python installiert werden. Das Paket lautet `python`.<br/>Wenn du im Kaptiel "Entwicklungsumbebung installieren" aufgepasst hast, müsstest du nun in der Lage sein Python zu installieren
 <br/>
 
 ### Python ausprobieren
