@@ -12,7 +12,7 @@ Bei der Installation immer “a” oder „y“ oder „q“ um Vortzufahren
 ```BASH
 yay -S
 ```
-in erster Linie, kann man damit alles in den Paketlisten aktuallisieren. Wenn man die Tabulator Taste drückt, (Links neben Q) kann man sog. Installationskandidaten auflisten
+In erster Linie, kann man damit alles in den Paketlisten aktuallisieren. Wenn man die Tabulator Taste drückt, (Links neben Q) kann man sog. Installationskandidaten auflisten
 <br/>
 Zum installieren von IntelliJ sieht das so aus:
 ```BASH
