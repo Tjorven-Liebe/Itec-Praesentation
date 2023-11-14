@@ -34,7 +34,7 @@ Zum prüfen, ob python installiert ist, kannst du die Python Konsole öffnen. Da
 python
 ```
 nun kannst du Python Befehle verwenden:
-```BASH
+```PYTHON
 print("Hello World!")
 ```
 Ausgabe: Hello World!
@@ -58,7 +58,7 @@ python ~/Schreibtisch/hello.py
 Du hast die Datei ausgeführt!
 <br/>
 Wenn du mit der Benutzung des Konsoleneditors nicht klakommst hier ein Tipp:
-```BASH
+```PYTHON
 nano ~/Schreibtisch/hello.py
 print("Hello World")
 ```
