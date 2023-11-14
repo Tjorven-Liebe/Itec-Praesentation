@@ -1,3 +1,6 @@
+## Vorab
+Hier ist ein weiteres Dokment, falls du Stichpunktartige Instruktionen präferierst
+[AufgabenAmTerminal.pdf](https://github.com/Tjorven-Liebe/Itec-Pr-sentation/files/13353700/AufgabenAmTerminal.pdf)
 
 ## Paketdatenbanken aktuallisieren
 ```BASH
