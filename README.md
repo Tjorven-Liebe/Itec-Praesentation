@@ -23,6 +23,7 @@ yay -S intellij-idea-community-edition
 ```
 <br/>
 Zum auflisten anderer Yay-Befehle kann man das hier nutzen:
+
 ```BASH
 yay --help
 ```
