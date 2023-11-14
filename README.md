@@ -92,3 +92,12 @@ Datei Ausführen
 java Pfad/HelloWorld.java
 ```
 In Java könnt ihr ja schon programmieren, probiert einfach ein paar Sachen aus
+
+## KDE-Theme anpassen
+Manjaro bietet mit dem Plasma-KDE Desktop die Funktion, dass man sein Theme komplett ändern kann.<br/>
+Das geht ganz einfach in den Einstellungen, dazu gehe in die Einstellungen unter:<br/>
+`Einstellungen -> Erscheinungsbild -> Neue Themes erhalten`
+![image](https://github.com/Tjorven-Liebe/Itec-Pr-sentation/assets/32434395/13db7bfe-d89c-4cb6-8cea-3eabf08880ea)
+
+## Googlen und weitere Sachen ausprobieren
+Nach interesse könnt ihr natürlich weitere Sachen ausprobieren. Gerne könnt ihr euch unter Google informieren. Wenn ihr was gefunden habt, stehen wir natürlich auch für Fragen zur Seite.
