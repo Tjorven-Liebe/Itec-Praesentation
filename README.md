@@ -10,8 +10,7 @@ Der Pacman Paketmanager (yay ist ein fork) benötigt aktuelle Paketdatenbanken u
 Wenn diese nicht aktuell sind, werden bestimmte Pakete zum Beispiel garnicht gefunden. Was nicht gefunden wird kann auch nicht installiert werden.
 
 ## Entwicklungsumgebungen installieren
-Andere Apps und Entwicklungsumgebungen mit yay installieren und nutzen.<br/>
-Bei der Installation immer “a” oder „y“ oder „q“ um Vortzufahren
+Andere Apps und Entwicklungsumgebungen mit yay installieren und nutzen.
 ```BASH
 yay -S
 ```
@@ -21,6 +20,7 @@ Zum installieren von IntelliJ sieht das so aus:
 ```BASH
 yay -S intellij-idea-community-edition
 ```
+Bei der Installation immer “a” oder „y“ oder „q“ um Vortzufahren
 <br/>
 Zum auflisten anderer Yay-Befehle kann man das hier nutzen:
 
