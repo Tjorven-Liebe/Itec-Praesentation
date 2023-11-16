@@ -7,8 +7,7 @@ class Unnamed {
 	* @return void
 	*/
 	void main() {
-		rechtsUm();
-		kehrt();
+		main();
 	}
 
 	/**
